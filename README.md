@@ -35,3 +35,5 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 * Abre uma aba no navegar e navegue para localhost:3000
 
 ## :keyboard: Resultado
+![projeto calculadora](https://user-images.githubusercontent.com/101607033/188889235-43fa4148-fc20-49c9-903f-a32473dd8a82.jpg)
+
